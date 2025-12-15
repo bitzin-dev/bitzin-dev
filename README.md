@@ -61,7 +61,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="40" alt="Arch Linux"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge" height="40" alt="ruby logo"  />
 </div>
 
 ###
